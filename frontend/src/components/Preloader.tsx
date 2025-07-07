@@ -24,7 +24,7 @@ const Preloader = ({ onComplete }: { onComplete: () => void }) => {
         <div className="mb-8">
           <h1 className="text-6xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
             <span>Skill</span>
-            <span className="text-cyan-400">Edge</span>
+            <span className="text-cyan-400">Bridge</span>
           </h1>
           <p className="text-slate-300 mt-4">
             Loading your learning experience...
