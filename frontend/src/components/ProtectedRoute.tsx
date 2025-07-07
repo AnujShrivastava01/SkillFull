@@ -24,7 +24,7 @@ const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({
           <div className="mb-6">
             <h1 className="text-3xl font-bold mb-2">
               <span className="text-white">Skill</span>
-              <span className="text-cyan-400">Edge</span>
+              <span className="text-cyan-400">Bridge</span>
             </h1>
             <p className="text-slate-300">Please sign in to continue</p>
           </div>
