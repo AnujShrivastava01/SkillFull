@@ -82,7 +82,7 @@ const Navigation = () => {
           ? 'bg-slate-900/95 backdrop-blur-md border-b border-slate-800 shadow-lg' 
           : 'bg-slate-900/80 backdrop-blur-md border-b border-slate-800'
       }`}>
-        <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-10xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <div
