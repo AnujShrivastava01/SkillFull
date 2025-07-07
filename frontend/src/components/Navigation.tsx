@@ -90,7 +90,7 @@ const Navigation = () => {
               onClick={() => navigate("/")}>
               <h1 className="text-xl sm:text-2xl font-bold">
                 <span className="text-white">Skill</span>
-                <span className="text-cyan-400">Edge</span>
+                <span className="text-cyan-400">Bridge</span>
               </h1>
             </div>
 
@@ -259,7 +259,7 @@ const Navigation = () => {
           <div className="relative bg-slate-800 border border-slate-700 rounded-2xl p-6 sm:p-8 max-w-md w-full shadow-2xl">
             <div className="flex items-center justify-between mb-6">
               <h3 className="text-xl sm:text-2xl font-bold text-white">
-                Sign In to SkillEdge
+                Sign In to SkillBridge
               </h3>
               <button
                 onClick={() => setShowAuthModal(false)}
