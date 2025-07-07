@@ -12,9 +12,9 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "routes": [
-    { 
-      "src": "/(.*)", 
-      "dest": "/index.html" 
+    {
+      "src": "/((?!assets|favicon\\.ico|robots\\.txt|manifest\\.json|placeholder\\.svg).*)",
+      "dest": "/index.html"
     }
   ]
 }
